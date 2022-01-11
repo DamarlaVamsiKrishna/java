@@ -1,0 +1,56 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css");
+.head{
+    flex-shrink: 1;
+}
+
+.company-logo{
+    height:100px;
+    width:100px;
+    margin-top: 30px;
+}
+.company-name{
+    color: rgb(8, 7, 7);
+    margin-top: 40px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.o-letter{
+    color: green;
+}
+.icon{
+    font-size: 10px;
+}
+.sub{
+    color: green;
+}
+.links{
+    margin-top: 40px;
+    font-size: 13px;
+    font-family: cursive;
+}
+.login-container{
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(182, 175, 166);
+    
+}
+.log-heading{
+    text-align: center;
+    font-weight: 100;
+    font-size: 33px;
+}
+.log-center{
+   text-align: center;
+  border: 2px white;
+   padding: 80px;
+   box-shadow: 3px 5px 5px rgb(12, 12, 12);
+   background-color: white;
+}
+.validations{
+    font-size:12px;
+    color: red;
+}

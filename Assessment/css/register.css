@@ -1,0 +1,56 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css");
+.head{
+    flex-shrink: 1;
+}
+
+.company-logo{
+    height:100px;
+    width:100px;
+    margin-top: 30px;
+}
+.company-name{
+    color: rgb(8, 7, 7);
+    margin-top: 40px;
+    font-size: 30px;
+}
+.o-letter{
+    color: green;
+}
+.icon{
+    font-size: 10px;
+}
+.sub{
+    color: green;
+}
+.links{
+    margin-top: 40px;
+    font-size: 13px;
+    font-family: cursive;
+}
+.form-container{
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(173, 138, 138);
+    
+}
+.detail-container{
+    margin-bottom: 10px;
+}
+.heading{
+    font-size: 30px;
+    font-weight: 200;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 40px;
+}
+.submit-button{
+    margin-top: 20px;
+}
+.validations{
+    font-size:14px;
+    color: red;
+}
